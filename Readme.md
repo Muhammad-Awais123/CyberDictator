@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="center">
 
 ```
 ██████╗ ██╗ ██████╗████████╗ █████╗ ████████╗ ██████╗ ██████╗ 
@@ -178,32 +178,9 @@ I'm a **Cybersecurity student** and **ethical hacker** focused on mastering offe
   IoT / OT Hacking       ██████░░░░░░░░░░░░░░  30%
 ```
 
----
 
-## <img src="https://img.icons8.com/color/30/anchor.png"/> GitHub Stats
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DICTATOR&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak](https://streak-stats.demolab.com/?user=DICTATOR&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DICTATOR&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
----
-
-## <img src="https://img.icons8.com/color/30/anchor.png"/> Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DICTATOR/DICTATOR/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/DICTATOR/DICTATOR/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
 
 ---
 
